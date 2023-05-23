@@ -1,7 +1,7 @@
 # SVG-Logo-Maker
 
 ## Description
-
+SVG Logo Maker is a user-friendly application that allows you to create stunning and customizable logos in the scalable vector graphics (SVG) format. This powerful tool incorporates the Inquirer package, providing an interactive and intuitive experience for logo creation.
 
 ## Usage
 Run `npm install` to download dependencies.
